@@ -1,52 +1,81 @@
-<h1 align="center">Diego Bravo</h1>
 
 <p align="center">
-  Computer Science student · full-stack dev · slowly falling down the computer vision rabbit hole
+  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&text=Hey,%20I'm%20Diego%20Bravo&fontAlign=50&fontSize=50&fontColor=ffffff&color=0:0D47A1,100:42A5F5" />
 </p>
 
-<p align="center">
-  <a href="https://github.com/diegobravo10">GitHub</a> ·
-  <a href="https://www.linkedin.com/in/diego-alexander-bravo-valdiviezo-407851346/">LinkedIn</a> ·
-  <a href="https://www.instagram.com/diego10_25/">Instagram</a> ·
-  <a href="https://www.facebook.com/share/19M7dSA4jf/?mibextid=wwXIfr">Facebook</a> ·
-  <a href="https://open.spotify.com/user/317bjtdmmxav4aoc75yrnkbyswim?si=b48ef43177324eb0">Spotify</a>
-</p>
+I'm a Computer Science student from Ecuador who enjoys building things and learning along the way.
 
-<br>
+Most of my projects are a mix of web development, backend systems, databases, Linux, automation, and occasionally computer vision when an idea sounds interesting enough to try.
 
-I'm studying Computer Science at Universidad Politécnica Salesiana. Most of my time goes into full-stack projects and computer vision experiments — pose estimation, stereo vision with a couple of ESP32-CAMs, GPU-accelerated detection, whatever I get curious about that month. I learn best by building, so most of what's below started as "I wonder if I can make this work."
+I like experimenting with different technologies, breaking things, fixing them, and figuring out how everything works under the hood.
 
-### Stack
+## Tech I use
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,cpp,js,ts,html,css" />
+  <img src="https://skillicons.dev/icons?i=java,python,cpp,js,ts,html,css" />
 </p>
+
 <p>
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,nodejs,express,prisma" />
 </p>
+
 <p>
-  <img src="https://skillicons.dev/icons?i=pytorch,opencv,postgresql,docker,linux,nginx,git,github" />
+  <img src="https://skillicons.dev/icons?i=postgresql,mysql,docker,linux,git,github" />
 </p>
 
-### Some things I've built
+<p>
+  <img src="https://skillicons.dev/icons?i=opencv,pytorch" />
+</p>
 
-**Alzheimer risk prediction** — clinical/cognitive data, XGBoost, served through a small FastAPI backend.
+## A few things I've worked on
 
-**Pose estimation & exercise analysis** — computer vision for tracking exercise form using OpenCV, YOLO and MoveNet on ONNX Runtime.
+* Web applications with React, Node.js and PostgreSQL.
+* Backend APIs and authentication systems.
+* Dockerized projects and self-hosted services.
+* Computer vision experiments using OpenCV and ONNX Runtime.
+* Machine learning projects with Python.
+* University and personal projects that usually start with: *"let's see if this works."*
 
-**Stereo vision with ESP32-CAM** — two ESP32-CAM modules working together to estimate distance to an object.
+## Current interests
 
-**GPU object detection** — object detection experiments with CUDA acceleration.
+* Full-stack development
+* System design
+* Linux & self-hosting
+* Machine learning
+* Computer vision
+* Performance optimization
 
-### GitHub stats
+### GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=diegobravo10&show_icons=true&hide_border=true&theme=transparent" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=diegobravo10&layout=compact&hide_border=true&theme=transparent" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=diegobravo10&show_icons=true&hide_border=true&theme=transparent" height="170"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=diegobravo10&layout=compact&hide_border=true&theme=transparent" height="170"/>
 </p>
 
-<br>
+## Find me around the web
 
-<p align="center">
-  <sub>Reach me at <a href="mailto:brzoale2510@gmail.com">brzoale2510@gmail.com</a></sub>
+<p align="left">
+  <a href="mailto:brzoale2510@gmail.com">
+    <img src="https://cdn.simpleicons.org/gmail/EA4335" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/diego-alexander-bravo-valdiviezo-407851346/"> <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.instagram.com/diego10_25/">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/diegobravo10">
+    <img src="https://cdn.simpleicons.org/github/181717" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.facebook.com/share/19M7dSA4jf/?mibextid=wwXIfr">
+    <img src="https://cdn.simpleicons.org/facebook/1877F2" width="40" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://open.spotify.com/user/317bjtdmmxav4aoc75yrnkbyswim?si=b48ef43177324eb0">
+    <img src="https://cdn.simpleicons.org/spotify/1DB954" width="40" />
+  </a>
 </p>
+
